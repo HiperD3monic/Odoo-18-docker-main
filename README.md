@@ -1,3 +1,4 @@
-# Odoo-19-docker
+# Odoo-18-docker
 
-docker exec -it odoo19 /usr/bin/odoo -d test -u pma_public_school_ve --stop-after-init
+docker exec -it odoo18 /usr/bin/odoo -d odoo -u pma\_public\_school\_ve --stop-after-init
+
